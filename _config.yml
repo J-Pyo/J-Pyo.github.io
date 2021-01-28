@@ -2,7 +2,7 @@
 title: JeongPyoHong
 url: https://j-pyo.github.io/
 paginate: 1
-baseurl: "/J-Pyo"
+baseurl: "/j-pyo"
 permalink: pretty
 
 # Gems
